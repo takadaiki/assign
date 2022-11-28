@@ -99,4 +99,7 @@ footer {
   .step3 {
     margin: 0 auto;
   }
+  .step1,.step2,.step3 {
+    width: 90%;
+  }
 }
